@@ -7,7 +7,7 @@ All Python syntax and important methods and tricks along with DSA Patterns
 Check all patterns and subpatterns with basic Python logic and specific patterns. 
 Solve more problems with different difficulties. 
 
-[Click here for the DSA Patterns page](PATTERNS.md)
+[Click here for the DSA Patterns](PATTERNS.md)
 
 ---
 
