@@ -4,8 +4,8 @@ All Python syntax and important methods and tricks along with DSA Patterns
 ---
 
 ### DSA Pattern using Python 
-Check all patterns and subpatterns with basic Python logic and specific patterns. 
-Solve more problems with different difficulties. 
+All patterns and subpatterns with basic Python logic and specific patterns. 
+Solve more problems with different difficulty levels. 
 
 [Click here for the DSA Patterns](PATTERNS.md)
 
